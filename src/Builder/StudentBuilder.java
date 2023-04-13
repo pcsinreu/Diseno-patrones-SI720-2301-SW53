@@ -1,6 +1,6 @@
 package Builder;
 
-public class StudentBuilder {
+public class StudentBuilder implements   IStudentBuilder {
 	
 	private int id;
 	private String code;
